@@ -1,4 +1,4 @@
-# SPII 2A: Landscape & Researcher Journey
+# SPII 2A: Reference model for: Landscape & Researcher Journey
 
 Feedback and issue tracker for SPII deliverable 2A, Landscape & Researcher Journey, part of the [SPII overview](https://surf-ori.github.io/spii-overview/).
 
