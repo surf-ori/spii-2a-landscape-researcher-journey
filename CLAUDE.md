@@ -4,7 +4,7 @@ Agent context for working on the `spii-2a-landscape-researcher-journey` reposito
 
 ## What this repo is
 
-The feedback and issue tracker for SPII deliverable 2A, Landscape & Researcher Journey. It holds
+The feedback and issue tracker for SPII deliverable 2A, Landscape of Open Science infrastructures. It holds
 no application code: its content is community feedback issues, this tracker's own configuration,
 and these context files. The deliverable's actual content and status live in the reference-model
 source document and on the [spii-overview](https://github.com/surf-ori/spii-overview) page, not
